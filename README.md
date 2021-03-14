@@ -1,9 +1,11 @@
 ![code differently](https://user-images.githubusercontent.com/54545904/91590200-f82ec600-e928-11ea-9433-eea450388abf.png)
 
-# Problem Solving: Program a simple task
+# Problem Solving: Fragmenting Activity
+![](https://media2.giphy.com/media/Ig9dsuczC9dDkOKrIa/giphy.gif?cid=ecf05e47hn4cdwzwfruw95b0t6xm2q2po1k835exntxbmnzu&rid=giphy.gif)
+
 # Table of Content
 
-- [Problem Solving: Program a simple task](#problem-solving-program-a-simple-task)
+- [Problem Solving: Fragmenting Activity](#problem-solving-fragmenting-activity)
 - [Table of Content](#table-of-content)
   - [Prerequisites](#prerequisites)
   - [The Set Up](#the-set-up)
